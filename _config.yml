@@ -2,7 +2,7 @@
 title: Netlified
 email: your-email@domain.com
 description: ""
-baseurl: "/netlified/" 
+baseurl: "/netlified" 
 url: "http://sunbliss.github.io" # the base hostname & protocol for your site
 twitter_username: ""
 github_username:  ""
